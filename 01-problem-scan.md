@@ -95,5 +95,5 @@ Architecture: [ ] No AI  [ ] Rule  [x] LLM  [ ] Agent
 | Card | Lý do không chọn |
 |---|---|
 | #1 Vinhomes — phản ánh cư dân | Có vào vòng bình chọn nhưng chỉ được 1/6 phiếu. Dữ liệu nằm trong App nội bộ, nhóm khó mô tả quy trình hiện tại sát thực tế. |
-| #2 VinFast — phân loại lỗi xe | Liên quan an toàn xe, ranh giới phải rất chặt (luôn cần kỹ sư duyệt), quá rủi ro cho một quick lab. |
+| #2 VinFast — phân loại lỗi xe | Liên quan an toàn xe, ranh giới phải rất chặt (luôn cần kỹ sư duyệt). |
 | #3 Vinpearl — email booking đoàn | Phải tích hợp hệ thống quản lý phòng (PMS) mới có giá trị; review khách sạn cùng mảng Vinpearl nhưng dữ liệu công khai, dễ làm prototype hơn. |
